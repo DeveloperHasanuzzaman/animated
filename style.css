@@ -1,0 +1,13 @@
+*{
+    margin:100;
+    padding: 0;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    background: blue;
+    position: relative;
+}
+
+
